@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### gitconfig ###
+.gitconfig-personal-github
+
+### MacOS ###
+.DS_Store
